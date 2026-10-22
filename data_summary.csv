@@ -1,0 +1,8 @@
+,value
+rows,29531
+columns,16
+cities,26
+date_min,2015-01-01
+date_max,2020-07-01
+duplicate_city_date_rows,0
+aqi_nonmissing,24850
